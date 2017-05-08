@@ -1,0 +1,68 @@
+
+html, body{
+  height: 110%;
+}
+
+body{
+    font-family: sans-serif
+}
+
+#app{
+
+    svg{
+        width: 230px;
+        height: 230px;
+    }
+}
+
+#leftCol{
+    width: 220px;
+    padding: 20px 0;
+    float:left;
+}
+
+#mainCol{
+    width: 300px;
+    margin-left: 10px;
+    float:left;
+    background-color: #333;
+    svg {
+        margin: 30px;
+        background-color: #fff;
+    }
+}
+
+
+#rightCol{
+    margin-left: 10px;
+    width: 230px;
+    float:left;
+}
+
+.shapeControls{
+    margin: 20px 4px;
+    label{ 
+        display: block ;
+        font-size: 11px;
+        }
+}
+.colourControls{
+    margin: 20px 4px;
+    .label{
+        margin: 8px;
+    }
+    label{
+        border: 1px solid #000;
+        padding: 2px;
+        margin: 2px;
+    }
+}
+
+
+.shapePreview{
+
+}
+
+.userItem{
+    border: 1px solid #efefef;
+}
