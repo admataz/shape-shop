@@ -1,6 +1,6 @@
 # admataz shape shop
 
-This a little experiment with [react.js-driven](https://facebook.github.io) to make an interactive SVG shape maker. 
+This a little experiment with [react.js](https://facebook.github.io) to make an interactive SVG shape maker. 
 
 See the [demo](http://demo.admataz.com/shape-shop/).
 
