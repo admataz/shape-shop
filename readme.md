@@ -2,9 +2,12 @@
 
 This a little experiment with [react.js-driven](https://facebook.github.io) to make an interactive SVG shape maker. 
 
-![vector shop](./screenshot.png)
+See the [demo](http://demo.admataz.com/shape-shop/).
 
-This has been a code exercise to extract some of my knowledge of React into something
+[![vector shop](./screenshot.png)](http://demo.admataz.com/shape-shop/)
+
+
+The purpose of this is to exercise the part of my brain that understands React and Javascript. 
 
 
 ### License
